@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html><head></head>
 <body>
-<p>This is my first webpage enter name here</p>
+<p>This is my first webpage enter Nancy Melendez</p>
   
   <img src="virtual landscape.jpg" height="400">
   <h1>This my Intro to New Media page.</h1>

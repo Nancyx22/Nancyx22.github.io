@@ -22,7 +22,7 @@
 <body>
 <p>This is my first webpage enter name here</p>
   
-  <img src="mylandscape.jpg" height="400">
+  <img src="virtual landscape.jpg" height="400">
   <h1>This my Intro to New Media page.</h1>
     <p>From this page you can access all my homework for HUW 112</p>
     <ul>
